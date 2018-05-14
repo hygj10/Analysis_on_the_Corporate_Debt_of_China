@@ -15,6 +15,5 @@ I acknowledge that a failure to abide by NYU Stern Honor Code will result in a f
 the project and course.
 
 Project Description
-Insert one paragraph description of your project
-Data Bootcamp: Delivering Y
+China is currently the second largest economy in the world, and could easily surpass the United States as the largest within the next twenty years. China's economic growth has been described as "miraculous" and "recession-proof", as China had been able to maintain around double-digit economic growth prior to the global financial crisis, and ~7% afterwards. In 2015, China accounted for over half of the world's total economic growth.That China was able to not only survive the financial crisis, but veritably thrive, is remarkable, and begs the question of what made China's approach different. How China arrived at its current position has major implications for the economic and financial policies of all emerging markets. Where China goes from here, however, has serious implications for the entire global economy. This project posits that a significant contributing factor to China's economic growth has been the rapid rise in Chinese private non-financial sector debt--particularly corporate debt. We analyze data from two sources: the China Central Depository and Clearing Corporation, and the Bank of International Settlements, in an effort to illustrate the evolution and extent of China's corporate debt issue.
 
